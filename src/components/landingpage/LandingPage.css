@@ -1,0 +1,9 @@
+.pageContent{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
